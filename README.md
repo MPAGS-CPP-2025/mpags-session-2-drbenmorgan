@@ -8,3 +8,6 @@ Takes input and runs a variety of classical ciphers to produce output.
 
 # Authors
 - Ben Morgan
+
+# Further information
+Added on GitHub
