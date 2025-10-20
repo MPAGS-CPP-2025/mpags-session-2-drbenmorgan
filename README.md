@@ -10,4 +10,4 @@ Takes input and runs a variety of classical ciphers to produce output.
 - Ben Morgan
 
 # Further information
-Added on GitHub
+Added on GitHub. Cause a conflict on this line.
